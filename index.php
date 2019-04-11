@@ -1,7 +1,6 @@
 <?php
 class bdupload {
 	public $err;
-	public $server_id = 'u3';
 	private $ch, $location;
 	private $debug = 0;
 
